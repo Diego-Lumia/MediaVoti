@@ -1,0 +1,3 @@
+For opening the JAR executable file you need to install Java Runtime Environment(JRE)
+JRE Download link: https://www.java.com/it/download/manual.jsp
+Then you can double-click on the file to open it
